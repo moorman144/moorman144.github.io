@@ -27,8 +27,7 @@ Columbus, OH\
     enable full-wave simulation of high-speed interconnects
 
 -   Worked with a software development team to build and maintain finite
-    element analysis (FEA) libraries\
-    out of legacy Fortran code for use on high-performance clusters
+    element analysis (FEA) libraries out of legacy Fortran code for use on high-performance clusters
 
 -   Measured the performance and accuracy of parallelized FEA and
     Domain-Decomposition algorithms to optimize computationally
@@ -40,20 +39,17 @@ Columbus, OH\
     equations in FEBI schemes
 
 -   Collaborated with a geographically distributed team of researchers
-    with varying scientific\
-    disciplines, such as machine learning, plasma physics, and quantum
+    with varying scientific disciplines, such as machine learning, plasma physics, and quantum
     computing
 
 **Advanced Packaging Intern,** Advanced Micro Devices -- Remote, MI\
 May 2023 -- Aug 2023
 
 -   Worked with the signal integrity group to improve their ability to
-    compute and predict electromagnetic\
-    interference in PCBs
+    compute and predict electromagnetic interference in PCBs
 
 -   Collaborated with material suppliers in Japan to create anisotropic
-    FR-4 models in Ansys HFSS\
-    to model fiber-weave effects in PCIe buses
+    FR-4 models in Ansys HFSS to model fiber-weave effects in PCIe buses
 
 -   Participated in a course on the Ansys Electronics Desktop put on for
     AMD employees

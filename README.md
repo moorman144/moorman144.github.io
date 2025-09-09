@@ -1,4 +1,4 @@
-Chad Moorman
+# Chad Moorman
 
 [moorman.144@osu.edu](mailto:name@gmail.com) \|
 [734-680-7144](https://mitcommlab.mit.edu/meche/commkit/portfolio/) \|

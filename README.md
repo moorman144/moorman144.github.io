@@ -44,8 +44,8 @@ Columbus, OH\
     disciplines, such as machine learning, plasma physics, and quantum
     computing
 
-**Advanced Packaging Intern,** Advanced Micro Devices -- Remote, MI
-    May 2023 -- Aug 2023
+**Advanced Packaging Intern,** Advanced Micro Devices -- Remote, MI\
+May 2023 -- Aug 2023
 
 -   Worked with the signal integrity group to improve their ability to
     compute and predict electromagnetic\
@@ -59,8 +59,8 @@ Columbus, OH\
     AMD employees
 
 **Research Assistant,** Electromagnetics Research Group -- East Lansing,
-MI
-    Sept 2019 -- Aug 2023
+MI\
+Sept 2019 -- Aug 2023
 
 -   Developed a novel method for simulating quantum dot systems using
     harmonic balance analysis, enabling physicists to design frequency
@@ -80,8 +80,8 @@ MI
     transmission line theory
 
 **Research Assistant,** Facility for Rare Isotope Beams (FRIB) -- East
-Lansing, MI
-    May 2019 -- September 2019
+Lansing, MI\
+May 2019 -- September 2019
 
 -   Developed a quench detection technique through simulation of surface
     current patterns in superconducting cavities illuminated at

@@ -78,7 +78,7 @@ MI Sept 2019 -- Aug 2023
     transmission line theory
 
 **Research Assistant,** Facility for Rare Isotope Beams (FRIB) -- East
-Lansing, MI May 2019 -- September 2019
+Lansing, MI\ May 2019 -- September 2019
 
 -   Developed a quench detection technique through simulation of surface
     current patterns in superconducting cavities illuminated at

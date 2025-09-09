@@ -4,7 +4,7 @@ Chad Moorman
 [734-680-7144](https://mitcommlab.mit.edu/meche/commkit/portfolio/) \|
 [linkedin.com/in/chad-moorman](https://old.reddit.com/r/EngineeringResumes/wiki/index#wiki_portfolios)
 
-# Skills {#skills .unnumbered}
+# Skills
 
 **Software:** Python, Fortran, C, Matlab, Linux, BASH, CMake, Git,
 OpenMP, CUDA Fortran, Slurm, TensorFlow\
@@ -13,7 +13,7 @@ Decomposition, Harmonic Balance\
 **Coursework:** Numerical Linear Algebra, Numerical PDEs, Stochastic
 Systems, Deep Learning
 
-# Experience {#experience .unnumbered}
+# Experience
 
 **Computational EM Research Assistant,** Electroscience Laboratory --
 Columbus, OH Aug 2023 -- Present\
@@ -87,7 +87,7 @@ Lansing, MI May 2019 -- September 2019\
 -   Worked as part of the RF team to install and tune superconducting
     cavity resonators in FRIBs linear particle accelerator tunnel
 
-# Education {#education .unnumbered}
+# Education 
 
 **Ohio State University** -- PhD in Electrical and Computer Engineering
 -- 2026 (Expected)\

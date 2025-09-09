@@ -1,6 +1,6 @@
 Chad Moorman
 
-[moorman.144\@osu.edu](mailto:name@gmail.com) \|
+[moorman.144@osu.edu](mailto:name@gmail.com) \|
 [734-680-7144](https://mitcommlab.mit.edu/meche/commkit/portfolio/) \|
 [linkedin.com/in/chad-moorman](https://old.reddit.com/r/EngineeringResumes/wiki/index#wiki_portfolios)
 

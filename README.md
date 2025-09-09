@@ -16,7 +16,7 @@ Systems, Deep Learning
 # Experience
 
 **Computational EM Research Assistant,** Electroscience Laboratory --
-Columbus, OH
+Columbus, OH\
     Aug 2023 -- Present
 
 -   Worked under the supervision of Dr. Balasubramaniam Shanker to
